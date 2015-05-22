@@ -1,6 +1,7 @@
 # glob-imagemagick
 
 [![Build Status](https://travis-ci.org/aethermx/glob-imagemagick.svg?branch=master)](https://travis-ci.org/aethermx/glob-imagemagick)
+[![Code Climate](https://codeclimate.com/github/aethermx/glob-imagemagick/badges/gpa.svg)](https://codeclimate.com/github/aethermx/glob-imagemagick)
 
 Use a glob pattern to find and resize a set of files with ImageMagick and save them to a new location.
 
